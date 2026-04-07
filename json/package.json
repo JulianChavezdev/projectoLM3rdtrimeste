@@ -1,0 +1,12 @@
+{
+    "name": "project name",
+    "version": "0.01",
+    "description": "Creating base project",
+    "main": "index.html",
+    "dependencies": {
+        
+    },
+    "author": "",
+    "license": "ISC"
+    
+}
