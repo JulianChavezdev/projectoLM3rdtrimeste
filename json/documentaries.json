@@ -1,0 +1,13 @@
+{
+    "documentaries": [
+        {
+            "id": 1,
+            "poster": "img",
+            "title": "My octopus Teacher",
+            "year":"2020",
+            "lenght": "1h 25",
+            "director":"pippa ehrlicj, Jammes reed",
+            "synopsis":"Loremp ipsum" 
+        }
+    ]
+}
